@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
 
 
         var b:Int=200
+        var c:Int=200
     }
 }
