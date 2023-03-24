@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
         var a :Int=10
         var dev:String
         var main:String="main"
+
+
+        var b:Int=200
+        var c:Int=300
     }
 }
